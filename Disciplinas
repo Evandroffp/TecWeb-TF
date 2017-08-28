@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>FBT-Faculdade Brasil Tecnologia</title>
+<meta charset="utf-8"></meta> <!-- Definindo o conjunto de caracteres que sera usado na pagina -->
+
+</head>
+
+<body>
+
+<font color="grenn"><center><h1>Faculdade Brasil Tecnologia</h1></center></font>
+
+<a href="file:///C:/Users/bruno/Desktop/SITE/Index.html"> Home </a> / Disciplinas
+
+<div align="center" style="border:1px solid green">
+<font color="blue"><center><h2>Disciplinas</h2></center></font>
+</div>
+
+<table>
+	<tr>
+	 <td colspan="2"><center>Graduação em Analise e Desenvolvimento de Sistemas</center></td>
+	</tr>
+	<tr>
+		<td><img src="ads.jpg" width="162" alt="LÓGICA DE PROGRAMAÇÃO" title="RESUMO DA DISCIPLINA"></a></td>
+		<td><div align="center" style="border:1px solid black"><p><B>Objetivos:</B>
+		Preparar o aluno para o desenvolvimento de soluções computacionais eficientes. Capacitar o aluno na elaboração de algoritmos; torná-los capazes de resolver problemas simples de forma teórica e aplicá-los na prática em uma linguagem de programação pré-definida na metodologia. </p>
+
+		<P><B>Ementa:</B>
+		Introdução à lógica de programação estruturada: variáveis, constantes, comandos de desvio, comandos de repetição, variáveis indexadas, procedimentos e funções, desenvolvimento de fluxogramas e pseudocódigos.</P>
+
+		<P><B>Sistema de Avaliação para essa Disciplina:</B>
+		A1: Prova1: peso 7 / Trabalhos em sala: peso 3 (conteúdo até a A1)
+		A4: Prova2: peso 7 / Trabalhos em sala: peso 3 (todo conteúdo da disciplina).</P>
+
+		<P>Será considerado aprovado o aluno que apresentar freqüência mínima de 75% (setenta e cinco por cento) nas atividades previstas para a disciplina e média 6,0 (seis).</P>
+
+		<p><b>Bibliografia:</b>
+		MANZANO, José Augusto Navarro Garcia & OLIVEIRA, Jair Figueiredo de. Algoritmos: Lógica para o desenvolvimento de programação. São Paulo: Ed. Érica, 2004.</p></div></td>
+	</tr>
+</table>
+</br>
+<table>
+	<tr>
+	 <td colspan="2"><center>Graduação em Banco de Dados</center></td>
+	</tr>
+	<tr>
+		<td><img src="bd.jpg" width="162" alt="FUNDAMENTOS DE BANCO DE DADOS" title="RESUMO DA DISCIPLINA"></a></td>
+		<td><div align="center" style="border:1px solid black"></br><p><b>Objetivos:</b>
+		Trabalhar os conceitos de banco de dados, conhecer e aplicar técnicas de modelagem de banco de dados, recuperar dados armazenados utilizando linguagem de manipulação.</p>
+
+		<p><b>Ementa:</b>
+		Conceitos de banco de dados e SGBD, dado e informação, modelo conceitual de banco de dados: conceitos, tipos e elementos. Projeto de banco de dados e linguagem de manipulação de dados.</p>
+
+		<P><B>Sistema de Avaliação para essa Disciplina:</B>
+		A1: Prova1: peso 7 / Trabalhos em sala: peso 3 (conteúdo até a A1)
+		A4: Prova2: peso 7 / Trabalhos em sala: peso 3 (todo conteúdo da disciplina).</P>
+
+		<P>Será considerado aprovado o aluno que apresentar freqüência mínima de 75% (setenta e cinco por cento) nas atividades previstas para a disciplina e média 6,0 (seis).</P>
+
+		<p><b>Bibliografia:</b>
+		DATE, Christopher. J. Introdução a sistemas de bancos de dados. Rio de Janeiro, RJ: Elsevier, 2004.
+		HEUSER, Carlos A. Projeto de banco de dados. 6. ed. Porto Alegre: Bookman, 2009.</p></br></div></td>
+	</tr>
+</table>
+	
+
+<div align="center" style="border:1px solid green">
+<footer>Copyright &reg; FBTec ano:2017</footer>
+</div>
+
+</body>
+
+</html>	
